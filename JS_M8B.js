@@ -93,7 +93,7 @@ function rollpart2() { switch (randomNumber) {
 }
 
 function rollpart3() {
-    document.getElementById("answer").innerHTML = randomNumber;
+    document.getElementById("answer").innerHTML = `Your number is ${randomNumber}`;
 }
 
 function rollTheDice() {
