@@ -2,14 +2,13 @@
 Title: Assignment 3 -Magic 8 Ball
 Authors: Nikki (Busy Bee), Kyle (Github Repo Owner, Leader ig), Shreya (CSS Queen)
 
-Program Element List (10 Most Complex Concepts / Syntax used): let variable declaration, const variable declaration, conditionals,
-string interpolation, .isNaN, do while loop, prompt, alert, logical operators, switch statement
+Program Element List (10 Most Complex Concepts / Syntax used): let variable declaration, switch statement, function declaration, Math.floor(), Math.random(),
 
 
 
-Version: 1
+Version: 2
 
-Date: November 24st, 2026
+Date: November 26th, 2026
 
 
  */
