@@ -39,6 +39,39 @@ function rollpart2() { switch (randomNumber) {
         case 4:
             document.getElementById("output").innerHTML = "Most likely.";
             break;
+        case 5:
+            document.getElementById("output").innerHTML = "I see it in your future.";
+            break;
+        case 6:
+            document.getElementById("output").innerHTML = "Signs point to yes.";
+            break; 
+        case 7:
+            document.getElementById("output").innerHTML = "Better not tell you right now.";
+            break;  
+        case 8:
+            document.getElementById("output").innerHTML = "Don't count on it.";
+            break; 
+        case 9:
+            document.getElementById("output").innerHTML = "Very doubtful.";
+            break;
+        case 10:
+            document.getElementById("output").innerHTML = "A little birdie told me the answer is no.";
+            break;
+        case 11:
+            document.getElementById("output").innerHTML = "As I see it, yes.";
+            break;
+        case 12:
+            document.getElementById("output").innerHTML = "Outlook good.";
+            break;
+        case 13:
+            document.getElementById("output").innerHTML = "You may rely on it.";
+            break;
+        case 14:
+            document.getElementById("output").innerHTML = "Reply hazy, try again.";
+            break; 
+        case 15:
+            document.getElementById("output").innerHTML = "I don't ";
+            break;
         default:
             document.getElementById("output").innerHTML = "Ask again later.";
             break;  
