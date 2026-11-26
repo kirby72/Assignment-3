@@ -2,11 +2,12 @@
 Title: Assignment 3 -Magic 8 Ball
 Authors: Nikki (Busy Bee), Kyle (Github Repo Owner, Leader ig), Shreya (CSS Queen)
 
-Program Element List (10 Most Complex Concepts / Syntax used): let variable declaration, switch statement, function declaration, Math.floor(), Math.random(),
+Program Element List (10 Most Complex Concepts / Syntax used): let variable declaration, switch statement, function declaration, Math.floor(), Math.random(), Math.ceil(),
+nested functions (actually do this or its stupid),document.getElementById("output").innerHTML
 
 
 
-Version: 2
+Version: 10
 
 Date: November 26th, 2026
 
@@ -144,4 +145,13 @@ console.log("Welcome to the HASBRO MAGIC EIGHT BALL! We will take your questions
 /*
 Notes:
 
-We should add some extra things to make our program stand out, maybe nutritional facts or trying to sell them something??-busy bee */
+we should probably add some console stuff too cuz mr. V wants the outputs in the console. DONT FORGET TO ADD A TERNERY-busy bee 
+
+
+Test Code:
+
+
+
+*/
+
+
