@@ -119,9 +119,11 @@ console.log("   `:::::::::::::::::' ")
 console.log("     `-:::::::::::-' ")
 console.log("        `'''''''`  ")
 
-
+         
 
 //Introduction (Summary) Part 2 UI/UX 
+
+console.log("Welcome to the HASBRO MAGIC EIGHT BALL! We will take your questions and give you our prediction for the future.")
 
 //Explanation (Rules, Instructions, Controls, Navigate, Manage User Expectations) Part 3 UI/UX
 
