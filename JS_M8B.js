@@ -70,7 +70,19 @@ function rollpart2() { switch (randomNumber) {
             document.getElementById("output").innerHTML = "Reply hazy, try again.";
             break; 
         case 15:
-            document.getElementById("output").innerHTML = "I don't ";
+            document.getElementById("output").innerHTML = "I don't think you want to know.";
+            break;
+        case 16:
+            document.getElementById("output").innerHTML = "Cannot predict right now.";
+            break;
+        case 17:
+            document.getElementById("output").innerHTML = "Concentrate and ask again.";
+            break;
+        case 18:
+            document.getElementById("output").innerHTML = "Outlook not good.";
+            break;
+        case 19:
+            document.getElementById("output").innerHTML = "Oh god I hope not.";
             break;
         default:
             document.getElementById("output").innerHTML = "Ask again later.";
