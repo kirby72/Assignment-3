@@ -6,6 +6,7 @@
     <title>Magic 8 Ball</title>
     <link rel="stylesheet" href="styles.css">  
     <script src="JS_M8B.js" defer></script>
+    <favicon href="favicon.ico" type="image/x-icon">
 </head>
 
 <body>
@@ -15,10 +16,16 @@
     <main>
         <section id="content">
             <h1>Magic 8 Ball</h1>
-            <p>Click the button and find out the secrets of the universe</p>
+            <div class="magic-8-ball">
+                <img src="images/magic-8-ball.png" alt="Magic 8 Ball" class="magic-8-ball-image">
+                <p>Click the button and find out the secrets of the universe</p>
             <button id="askButton" onclick=rollTheDice() class = "roll-button">Ask the Magic 8 Ball</button>
-            <p id = "answer" class= "ans">really cool</p>
-            <p id = "output" class= "out"> something</p>
+            </div>
+
+            <div class="question-container">
+                <p id = "answer" class= "ans">really cool</p>
+                <p id = "output" class= "out"> something</p>
+            </div>
         </section>
     </main>
 

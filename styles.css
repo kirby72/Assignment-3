@@ -1,12 +1,21 @@
 .ans {
  color: green;
+ transition: 0.5s;
 }
 
 .out {
 color: red;
+transition: 0.5s;
 }
 
 .roll-Button {
 border: aqua, 12px;
+color: blue;
+transition: 0.5s;
+}
 
+.roll-Button:hover {
+  background-color: blue;
+  color: aqua;
+  transition: 0.5s;
 }
