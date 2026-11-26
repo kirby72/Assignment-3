@@ -105,19 +105,19 @@ function rollTheDice() {
 //Title Screen (Ascii Art) Part 1 UI/UX 
 console.log(` "Seed" : ${numberThingy}`   )
          
-console.log("      .-:::::::::::-. ")
-console.log("    .:::::::::::::::::. ")
-console.log("   :::::::' .-. `::::::: ")
-console.log("  :::::::  :   :  ::::::: ")
-console.log(" ::::::::  :   :  :::::::: ")
-console.log(" :::::::::._`-'_.::::::::: ")
-console.log(" :::::::::' .-. `::::::::: ")
-console.log(" ::::::::  :   :  :::::::: ")
-console.log("  :::::::  :   :  ::::::: ")
-console.log("   :::::::._`-'_.::::::: ")
-console.log("   `:::::::::::::::::' ")
-console.log("     `-:::::::::::-' ")
-console.log("        `'''''''`  ")
+console.log("      .-:::::::::::-.       ")
+console.log("    .:::::::::::::::::.     ")
+console.log("   :::::::' .-. `:::::::    ")
+console.log("  :::::::  :   :  :::::::   ")
+console.log(" ::::::::  :   :  ::::::::  ")
+console.log(" :::::::::._`-'_.:::::::::  ")
+console.log(" :::::::::' .-. `:::::::::  ")
+console.log(" ::::::::  :   :  ::::::::  ")
+console.log("  :::::::  :   :  :::::::   ")
+console.log("   :::::::._`-'_.:::::::    ")
+console.log("   `:::::::::::::::::'      ")
+console.log("     `-:::::::::::-'        ")
+console.log("        `'''''''`           ")
 
          
 
